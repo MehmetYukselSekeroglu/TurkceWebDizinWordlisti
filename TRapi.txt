@@ -1,3 +1,7 @@
+dailylimitresetpython
+bwicty_api.sql
+db
+dailylimitreset.py
 aes.php
 apidepola.php
 duyurukaydet.php
